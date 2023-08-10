@@ -1,16 +1,21 @@
-### Hi there 👋
+## 𝙃𝙚𝙡𝙡𝙤 𝙀𝙫𝙚𝙧𝙮𝙗𝙤𝙙𝙮 👾
 
-<!--
-**vss-vinicius/vss-vinicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>𝙈𝙚 𝙘𝙝𝙖𝙢𝙤 𝙑𝙞𝙣𝙞𝙘𝙞𝙪𝙨, 𝙚𝙨𝙩𝙪𝙙𝙖𝙣𝙩𝙚 𝙙𝙚 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙖çã𝙤 𝙘𝙤𝙢 𝙛𝙤𝙘𝙤 𝙚𝙢 𝙛𝙧𝙤𝙣𝙩𝙚𝙣𝙙.</p>
+<p>𝙀𝙨𝙩𝙤𝙪 𝙖𝙩𝙪𝙖𝙡𝙢𝙚𝙣𝙩𝙚 𝙛𝙤𝙘𝙖𝙙𝙤 𝙚𝙢 𝙃𝙏𝙈𝙇, 𝘾𝙎𝙎 𝙚 𝙅𝙖𝙫𝙖𝙎𝙘𝙧𝙞𝙥𝙩.</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--MENU COMMIT/LINGUAGENS -->
+  ##
+<div div align="center">
+  <a href="https://github.com/vss-vinicius">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vss-vinicius&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vss-vinicius&layout=compact&langs_count=10&theme=gotham"/>
+</div>
+  
+<!--REDES SOCIAIS-->  
+   ##
+<BR/>
+<div align="center">   
+  <a href="https://www.instagram.com/viniciuzy/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:vss.vinicius@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/vinicius-soares-079006180/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
