@@ -3,13 +3,6 @@
 <p>𝙈𝙚 𝙘𝙝𝙖𝙢𝙤 𝙑𝙞𝙣𝙞𝙘𝙞𝙪𝙨, 𝙚𝙨𝙩𝙪𝙙𝙖𝙣𝙩𝙚 𝙘𝙤𝙢 𝙛𝙤𝙘𝙤 𝙚𝙢 𝙛𝙧𝙤𝙣𝙩𝙚𝙣𝙙.</p>
 <p>𝙀𝙨𝙩𝙤𝙪 𝙖𝙩𝙪𝙖𝙡𝙢𝙚𝙣𝙩𝙚 𝙛𝙤𝙘𝙖𝙙𝙤 𝙚𝙢 𝙃𝙏𝙈𝙇, 𝘾𝙎𝙎 𝙚 𝙅𝙖𝙫𝙖𝙎𝙘𝙧𝙞𝙥𝙩.</p>
 
-  ##
-<div div align="center">
-  <a href="https://github.com/vss-vinicius">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vss-vinicius&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vss-vinicius&layout=compact&langs_count=10&theme=gotham"/>
-</div>
-
 <!--REDES SOCIAIS-->  
    ##
 <br/>
