@@ -7,8 +7,7 @@
 
 ## 𝙃𝙚𝙡𝙡𝙤 𝙀𝙫𝙚𝙧𝙮𝙗𝙤𝙙𝙮 👾
 
-<p>𝗠𝗲 𝗰𝗵𝗮𝗺𝗼 𝗩𝗶𝗻𝗶𝗰𝗶𝘂𝘀, 𝗱𝗲𝘀𝗲𝗻𝘃𝗼𝗹𝘃𝗲𝗱𝗼𝗿 𝗳𝗿𝗼𝗻𝘁𝗲𝗻𝗱</p>
-<p>𝗘𝘀𝘁𝗼𝘂 𝗮𝘁𝘂𝗮𝗹𝗺𝗲𝗻𝘁𝗲 𝗳𝗼𝗰𝗮𝗱𝗼 𝗲𝗺 𝗮𝗽𝗿𝗶𝗺𝗼𝗿𝗮𝗿 𝗺𝗶𝗻𝗵𝗮𝘀 𝗵𝗮𝗯𝗶𝗹𝗶𝗱𝗮𝗱𝗲𝘀 𝗲𝗺 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁, 𝗖𝗦𝗦 𝗲 𝗛𝗧𝗠𝗟</p>
+<p>Concluí Análise de Sistemas em 2024 e atualmente curso Administração na UNINOVE.</p>
 
 <!--REDES SOCIAIS-->  
    ##
